@@ -28,5 +28,5 @@ Here you'll find a collection of projects where I put my skills into practice. R
 
 ## ☎️ Contact information
 
-[Get in touch via Email](mailto:samuelgomezr99@gmail.com)
-[Let's connect on LinkedIn](www.linkedin.com/in/samuel-gómez-rendón)
+Get in touch via Email: samuelgomezr99@gmail.com
+Let's connect on LinkedIn: www.linkedin.com/in/samuel-gómez-rendón
